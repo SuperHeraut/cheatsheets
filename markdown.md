@@ -66,3 +66,14 @@ checklist
 - [ ] undone item
 - [x] done item
 
+## links and images
+
+```
+[テキスト](ダイレクトURL)
+---
+[テキスト][脚注]
+
+[脚注]: URL
+---
+![画像です](URL)
+```

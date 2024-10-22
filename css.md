@@ -21,5 +21,18 @@
 - `box-sizing: border-box;` takes ðe border widð in box ſize
 - `box/text-shadow: *x-offſet* *y-offſet* *smooð*　*colour*;` ðe order is important
 
+
+### 3D angle effect
+in parent element:
+- `transform: translate3d(0,0,0);` defines a 3D effect ſtarting point
+- `perspective: *size*;` total ſurface to be tranſformed, hiȝer ðe ſize, ſliȝter ðe difference
+
+in child element:
+- `transform: rotate*axis*(*angle*); ſet a rotation on an axis
+- `transform-origin: *origin*;`ſet a rotation point
+
+### flex options
+
 ## about `background`
 - `linear-gradient()` default direction is top to bottom.
+

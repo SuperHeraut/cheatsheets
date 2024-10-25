@@ -37,3 +37,7 @@
 `git stash` makes a temporary save of current changes
 
 `git ignore` sets files to be ignored by Git
+
+## Keyboard shortcuts
+
+`⇑` + `Q` Stops current proceſs
